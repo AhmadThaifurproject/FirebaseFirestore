@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652688410623",
+    "project_id": "firestoref55122014-b1a4d",
+    "storage_bucket": "firestoref55122014-b1a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652688410623:android:9dc1c67d16e385a0c9c9ca",
+        "android_client_info": {
+          "package_name": "com.thio.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9WugaawB0lPIUu-pdOIt7_nJNiID5z58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
